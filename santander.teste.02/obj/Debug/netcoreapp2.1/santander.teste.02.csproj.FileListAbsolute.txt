@@ -1,0 +1,11 @@
+C:\Users\z0042ywz\source\repos\santander.teste.01\santander.teste.02\bin\Debug\netcoreapp2.1\santander.teste.02.deps.json
+C:\Users\z0042ywz\source\repos\santander.teste.01\santander.teste.02\bin\Debug\netcoreapp2.1\santander.teste.02.runtimeconfig.json
+C:\Users\z0042ywz\source\repos\santander.teste.01\santander.teste.02\bin\Debug\netcoreapp2.1\santander.teste.02.runtimeconfig.dev.json
+C:\Users\z0042ywz\source\repos\santander.teste.01\santander.teste.02\bin\Debug\netcoreapp2.1\santander.teste.02.dll
+C:\Users\z0042ywz\source\repos\santander.teste.01\santander.teste.02\obj\Debug\netcoreapp2.1\santander.teste.02.csprojAssemblyReference.cache
+C:\Users\z0042ywz\source\repos\santander.teste.01\santander.teste.02\obj\Debug\netcoreapp2.1\santander.teste.02.csproj.CoreCompileInputs.cache
+C:\Users\z0042ywz\source\repos\santander.teste.01\santander.teste.02\obj\Debug\netcoreapp2.1\santander.teste.02.AssemblyInfoInputs.cache
+C:\Users\z0042ywz\source\repos\santander.teste.01\santander.teste.02\obj\Debug\netcoreapp2.1\santander.teste.02.AssemblyInfo.cs
+C:\Users\z0042ywz\source\repos\santander.teste.01\santander.teste.02\bin\Debug\netcoreapp2.1\santander.teste.02.pdb
+C:\Users\z0042ywz\source\repos\santander.teste.01\santander.teste.02\obj\Debug\netcoreapp2.1\santander.teste.02.dll
+C:\Users\z0042ywz\source\repos\santander.teste.01\santander.teste.02\obj\Debug\netcoreapp2.1\santander.teste.02.pdb
